@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'PUBG';
+    src: url(../font/HeadlinerNo.45.ttf);
+}
+@font-face {
+    font-family: 'Noto';
+    src: url(../font/NotoSansKR-Regular.ttf);
+}
+@font-face {
+    font-family: 'Noto_black';
+    src: url(../font/NotoSansKR-Black.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto';
+}
+body {
+    background-color: #000;
+    overflow-x: hidden;
+}
+a {
+    text-decoration: none;
+}
+ul { list-style: none; }

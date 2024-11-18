@@ -1,0 +1,11 @@
+첫번째 섹션이 top:0이면 header 사라짐
+두번째 섹션 이미지 motion
+우측 하단 탑바
+패치노트박스, 뉴스박스 position 걸기
+
+section 순서
+1. sec1 이미지
+2. text moving
+3. 비행기?
+4. 노란색 박스(store.jpg)
+5. 커뮤니티(community.png)(던킨처럼)

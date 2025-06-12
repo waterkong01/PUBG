@@ -28,7 +28,7 @@
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ## **📃 작품 소개**
 > ### 작품 소개
-![Image](https://github.com/user-attachments/assets/f98f034b-8485-4e93-ae2e-afb63acad5b6)
 > 펍지 스튜디오의 MMO 슈팅 게임인 '배틀그라운드'의 홈페이지를 클론 코딩하였습니다.<br>
 > 백엔드 작업 없이 HTML과 CSS, JavaScript를 사용해 제작한 프론트엔드 홈페이지입니다.<br>
 > 메인 페이지만 제작 하였습니다.
+![Image](https://github.com/user-attachments/assets/f98f034b-8485-4e93-ae2e-afb63acad5b6)

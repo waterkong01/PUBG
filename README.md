@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=200&section=header&text=PUBG:%20배틀그라운드&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f2aa00&height=200&section=header&text=PUBG:%20배틀그라운드&fontSize=70)
 
 ## **📖 목차**
 
@@ -31,4 +31,5 @@
 > 펍지 스튜디오의 MMO 슈팅 게임인 '배틀그라운드'의 홈페이지를 클론 코딩하였습니다.<br>
 > 백엔드 작업 없이 HTML과 CSS, JavaScript를 사용해 제작한 프론트엔드 홈페이지입니다.<br>
 > 메인 페이지만 제작 하였습니다.
+
 ![Image](https://github.com/user-attachments/assets/f98f034b-8485-4e93-ae2e-afb63acad5b6)

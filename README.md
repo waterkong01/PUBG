@@ -22,6 +22,8 @@
 > 구현 기간: 24.11.07 ~ 24.11.08
 >
 > 사용 기술: HTML, CSS, JavaScript, Visual Studio Code
+>
+> 더 많은 프로젝트 정보(Notion): https://www.notion.so/PUBG-13e8c659c95f806583b9e508d46f4a4e?source=copy_link
 
 
 ## **⚒️ 기술 및 도구**
